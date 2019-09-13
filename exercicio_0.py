@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 29 10:13:23 2015
 
-@author: aa02
+@author: aa02, omar as well
 """
 changed
 key = ''
